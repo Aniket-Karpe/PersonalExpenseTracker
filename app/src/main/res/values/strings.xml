@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PersonalExpense</string>
+    <string name="select_month_prompt">Select Month</string>
+</resources>
