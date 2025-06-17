@@ -32,7 +32,10 @@ expenses
 - category: String
 - date: String (yyyy-MM-dd)
 - notes: String? (Optional)
+
 ```
+### Sample Video
+ ![Demo Video](assets/ExpenseTracker.mp4)
 
 ### Dependencies
 - AndroidX Core KTX
